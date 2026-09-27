@@ -1,0 +1,4 @@
+interface:
+  display_name: "MarkItDown Context Reader"
+  short_description: "Read local documents with a smaller context footprint"
+  default_prompt: "Use $markitdown-context-reader to inspect this document while loading only the content needed for my request."
